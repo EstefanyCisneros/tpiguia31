@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<!-- ejemplo2.xml rc17075-->
+<pais nombre="El Salvador">
+ <departamento id="1" nombre="San Salvador">
+ <cabecera>San Salvador</cabecera>
+ <habitantes>1,700,000</habitantes>
+ <altura>545 MSNM</altura>
+ </departamento>
+ <departamento id="2" nombre="San Miguel" codigoArea="50">
+ <cabecera>San Miguel</cabecera>
+ <habitantes>700,000</habitantes>
+ <altura>525 MSNM</altura>
+ <moneda>USD</moneda>
+ <codigoTelefonico>+503</codigoTelefonico>
+  <idiomas>
+  <oficial>Español</oficial> 
+  <autoctono>Nahuat</autoctono>
+  <segundoidioma>portugues</segundoidioma>
+ </idiomas>
+ <areaTerritorial>2,128 km</areaTerritorial>
+ </departamento>
+<departamento id="3" nombre="San Ana" codigoArea="502">
+ <cabecera>San Anal</cabecera>
+ <habitantes>89,000</habitantes>
+ <altura>525 MSNM</altura>
+ <moneda>USD</moneda>
+ <codigoTelefonico>+503</codigoTelefonico>
+ <idiomas>
+<oficial>Español</oficial> 
+<autoctono>Nahuat</autoctono>
+<segundoidioma>Ingles</segundoidioma>
+ </idiomas>
+ <areaTerritorial>2,135 km</areaTerritorial>
+ </departamento>
+ </pais>
