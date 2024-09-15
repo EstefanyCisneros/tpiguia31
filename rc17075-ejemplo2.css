@@ -1,0 +1,6 @@
+ /* carnet-ejemplo1.css rc17075 */
+ fichero {background-color:rgb(255, 162, 0);}
+ ficha {background-color:rgb(86, 88, 144); display:block;}
+ nombre {color:white; display:inline;} apellido
+ {color:rgb(172, 172, 112); display:inline;}
+ direccion {color:yellow;font-size:1cm; display:none;}

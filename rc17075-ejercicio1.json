@@ -1,0 +1,19 @@
+{
+    "fichero": {
+      "ficha": [
+        {
+          "nombre": "Antonio",
+          "apellido": "Barbero",
+          "direccion": "Calle de Los Andes, 45"
+        },
+        {
+          "nombre": "Estefany",
+          "apellido": "Rivas",
+          "direccion": "Avenida Valle del Sol,572",
+          "telefono": "2257-8567",
+          "email": "estefanyrivazz@gmail.com",
+          "website": "https://www.taylorswift.com/"
+        }
+      ]
+    }
+  }

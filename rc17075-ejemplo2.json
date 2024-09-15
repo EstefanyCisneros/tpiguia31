@@ -1,0 +1,37 @@
+{
+    "pais": {
+      "departamento": [
+        {
+          "cabecera": "San Salvador",
+          "habitantes": "1,700,000",
+          "altura": "545 MSNM"
+        },
+        {
+          "cabecera": "San Miguel",
+          "habitantes": "700,000",
+          "altura": "525 MSNM",
+          "moneda": "USD",
+          "codigoTelefonico": 503,
+          "idiomas": {
+            "oficial": "Español",
+            "autoctono": "Nahuat",
+            "segundoidioma": "portugues"
+          },
+          "areaTerritorial": "2,128 km"
+        },
+        {
+          "cabecera": "San Anal",
+          "habitantes": "89,000",
+          "altura": "525 MSNM",
+          "moneda": "USD",
+          "codigoTelefonico": 503,
+          "idiomas": {
+            "oficial": "Español",
+            "autoctono": "Nahuat",
+            "segundoidioma": "Ingles"
+          },
+          "areaTerritorial": "2,135 km"
+        }
+      ]
+    }
+  }
